@@ -52,6 +52,11 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'tutorial_git.urls'
 
+
+
+
+
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
