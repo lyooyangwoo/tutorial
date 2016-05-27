@@ -16,8 +16,6 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.8/howto/deployment/checklist/
 
@@ -53,9 +51,6 @@ MIDDLEWARE_CLASSES = (
 )
 
 ROOT_URLCONF = 'tutorial_git.urls'
-
-
-
 
 TEMPLATES = [
     {
@@ -105,10 +100,7 @@ USE_TZ = True
 
 
 
-#999999999999999999999999999999999999999999
 
-
-#11 11 11
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
