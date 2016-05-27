@@ -52,6 +52,9 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'tutorial_git.urls'
 
+
+
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -81,7 +84,6 @@ DATABASES = {
     }
 }
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
@@ -98,8 +100,7 @@ USE_TZ = True
 
 
 
-
-
+#1111111111111111111111111111111111111111
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
