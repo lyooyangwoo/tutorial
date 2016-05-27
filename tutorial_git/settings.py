@@ -17,9 +17,6 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 
-#1111111111111111111111111111111111111111
-
-
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.8/howto/deployment/checklist/
@@ -105,11 +102,6 @@ USE_L10N = True
 
 USE_TZ = True
 
-
-
-#33333333333333333333333333333333333333333
-#222222222222222222222222222222222222222222
-#4444444444444444444444444444444444444444
 
 
 # Static files (CSS, JavaScript, Images)
