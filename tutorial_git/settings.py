@@ -107,6 +107,8 @@ USE_TZ = True
 
 #999999999999999999999999999999999999999999
 
+#1010101010101010101010101010101010101010101
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
